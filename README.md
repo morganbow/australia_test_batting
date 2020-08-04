@@ -10,7 +10,7 @@ Ken Jee's project from Scratch series: https://www.youtube.com/watch?v=MpF9HENQj
 Beautiful Soap tutorial: https://www.youtube.com/watch?v=XQgXKtPSzUI
 
 # Code
-Python 3.7 /n
+Python 3.7 \n
 Packages: pandas, numpy, matplotlib, seaborn
 
 # Scraping data
