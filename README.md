@@ -23,7 +23,7 @@ Removed 0 innings data.
 Removed data with no average.
 Removed the not out sign from high scores to make the data an int.
 
-#EDA
+# EDA
 Most of the histograms for the data seemed to show that the data is exponentially distributed. I looked into the data and realised a strong correlation between many of the variables. I also put some of the continous data into ranges to look at some pivot tables. 
 
 
