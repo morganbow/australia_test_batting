@@ -6,7 +6,7 @@ Found strong correlations between multiple variables.
 Will create a model to try predict batting average from other independent variables such as HS, 50_convergences, etc
 
 # Resources
-Ken Jee's project from Scratch series: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
+Ken Jee's project from Scratch series: https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t \
 Beautiful Soap tutorial: https://www.youtube.com/watch?v=XQgXKtPSzUI
 
 # Code
