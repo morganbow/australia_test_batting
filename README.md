@@ -10,7 +10,7 @@ Ken Jee's project from Scratch series: https://www.youtube.com/watch?v=MpF9HENQj
 Beautiful Soap tutorial: https://www.youtube.com/watch?v=XQgXKtPSzUI
 
 # Code
-Python 3.7  Packages: pandas, numpy, matplotlib, seaborn
+Python 3.7\Packages: pandas, numpy, matplotlib, seaborn
 
 # Scraping data
 This was my first solo data science project and therefore my first time scraping data. I used beautiful soap, which I learnt how to use from a Youtube video by Data Science Dojo that is linked in my resources.
