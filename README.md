@@ -28,11 +28,11 @@ Most of the histograms for the data seemed to show that the data is exponentiall
 
 ![aus data heatmap](https://user-images.githubusercontent.com/54070085/90395942-48866800-e08d-11ea-8967-aa264443cb14.png)
 
-
 ![test averages hisogram](https://user-images.githubusercontent.com/54070085/90396099-8be0d680-e08d-11ea-9bb3-e370dd79a61b.png)
 
-
 ![test matches hisogram](https://user-images.githubusercontent.com/54070085/90396150-9e5b1000-e08d-11ea-8835-6279410c4073.png)
+
+![average against runs scatter](https://user-images.githubusercontent.com/54070085/90396188-adda5900-e08d-11ea-8b3d-14d6afa83559.png)
 
 
 
