@@ -24,7 +24,9 @@ Removed data with no average.
 Removed the not out sign from high scores to make the data an int.
 
 # EDA
-Most of the histograms for the data seemed to show that the data is exponentially distributed. I looked into the data and realised a strong correlation between many of the variables. I also put some of the continous data into ranges to look at some pivot tables. 
+Most of the histograms for the data seemed to show that the data is exponentially distributed, the 'Average' variable however looked to be normally distributed when the outliers in the data were removed from the histogram. I looked into the data and realised a strong correlation between many of the variables. I also put some of the continous data into ranges to look at some pivot tables. Finally I looked at some scatter plots of the variable 'Average' against some of the variables I will look to model it against. 
+
+
 
 
 
