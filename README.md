@@ -32,5 +32,8 @@ Most of the histograms for the data seemed to show that the data is exponentiall
 ![test averages hisogram](https://user-images.githubusercontent.com/54070085/90396099-8be0d680-e08d-11ea-9bb3-e370dd79a61b.png)
 
 
+![test matches hisogram](https://user-images.githubusercontent.com/54070085/90396150-9e5b1000-e08d-11ea-8835-6279410c4073.png)
+
+
 
 
