@@ -26,11 +26,7 @@ Removed the not out sign from high scores to make the data an int.
 # EDA
 Most of the histograms for the data seemed to show that the data is exponentially distributed, the 'Average' variable however looked to be normally distributed when the outliers in the data were removed from the histogram. I looked into the data and realised a strong correlation between many of the variables. I also put some of the continous data into ranges to look at some pivot tables. Finally I looked at some scatter plots of the variable 'Average' against some of the variables I will look to model it against. 
 
-![aus data heatmap](https://user-images.githubusercontent.com/54070085/90395942-48866800-e08d-11ea-8967-aa264443cb14.png)
 
-![test averages hisogram](https://user-images.githubusercontent.com/54070085/90396099-8be0d680-e08d-11ea-9bb3-e370dd79a61b.png)
-
-![test matches hisogram](https://user-images.githubusercontent.com/54070085/90396150-9e5b1000-e08d-11ea-8835-6279410c4073.png)
 
 ![average against runs scatter](https://user-images.githubusercontent.com/54070085/90396188-adda5900-e08d-11ea-8b3d-14d6afa83559.png)
 
